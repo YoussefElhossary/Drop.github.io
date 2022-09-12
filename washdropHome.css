@@ -5,7 +5,6 @@
         width: 100%;
       }
 
-
       body {
         font-family: 'Open Sans', serif;
         margin: 0;
@@ -19,13 +18,13 @@
 
       
         @font-face {
-          font-family: ridleygrotesk_bold;
-          src: url(assets/Ridley%20Grotesk%20Bold.otf);
+          font-family: ridleygrotesk_regular;
+          src: url(assets/Ridley%20Grotesk%20Regular.otf);
         }
         
         @font-face {
-          font-family: ridleygrotesk_regular;
-          src: url(assets/Ridley%20Grotesk%20Regular.otf);
+          font-family: ridleygrotesk_bold;
+          src: url(assets/Ridley%20Grotesk%20Bold.otf);
         }
         
         @font-face {
@@ -37,7 +36,7 @@
       .washdropHome {
 
       display: block;
-      position: absolute;
+      position: relative;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
@@ -59,17 +58,15 @@
       overflow-y: auto;
       background-color: rgba(239, 239, 239, 1);
       width: auto;
-    height: 8556.00px;
+    height: 7489.00px;
     left: 0px;
     top: 0px;
     right: 0px;
 
 }
 
-.washdropHome .group37 {
-
-      display: block;
-      position: absolute;
+.washdropHome .artboard1 {
+    position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
@@ -77,36 +74,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 5721.70px;
-    height: 5873.69px;
-    top: -3473.30px;
-    right: -1941.28px;
-
-}
-
-.washdropHome .group37 .blobbbb22f7bb33 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(212.00deg);
-    -webkit-transform: rotate(212.00deg);
-    transform: rotate(212.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/blobbbb22f7bb33.png");
+      background-image: url("assets/artboard1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,177 +106,11 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 4053.17px;
-    height: 4310.88px;
-    left: 834.27px;
-    top: 746.40px;
-
-}
-
-.washdropHome .group37 .blobbbb {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(212.00deg);
-    -webkit-transform: rotate(212.00deg);
-    transform: rotate(212.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/blobbbb.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 0.131182000041008;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 4053.17px;
-    height: 4310.88px;
-    left: 834.27px;
-    top: 816.40px;
-
-}
-
-.washdropHome .carExperienceRedefined {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 150.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 2093.00px;
-    height: 378.00px;
-    top: 249.38px;
-    right: -262.04px;
-
-}
-
-.washdropHome .group36 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 858.00px;
-    height: 191.25px;
-    left: 69.00px;
-    top: 627.38px;
-
-}
-
-.washdropHome .group36 .screenShot20220404At33149Pm4440d292 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/screenShot20220404At33149Pm4440d292.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 858.00px;
-    height: 191.25px;
+      width: auto;
+    height: 1080.00px;
     left: 0.00px;
     top: 0.00px;
+    right: 0.00px;
 
 }
 
@@ -411,7 +213,7 @@
 
 }
 
-.washdropHome .group1 .aboutUs69d7c55f {
+.washdropHome .group1 .aboutUs8bec8568 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -537,7 +339,7 @@
 
 }
 
-.washdropHome .group47 {
+.washdropHome .group308 {
 
       display: block;
       position: absolute;
@@ -564,12 +366,12 @@
       width: auto;
     height: 313.00px;
     left: 0.00px;
-    top: 3180.00px;
+    top: 2670.00px;
     right: 0.00px;
 
 }
 
-.washdropHome .group47 .rectangle311645830f {
+.washdropHome .group308 .rectangle31d9383ec8 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -578,7 +380,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle311645830f.png");
+      background-image: url("assets/rectangle31d9383ec8.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -610,14 +412,16 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 1920.00px;
-    height: 313.00px;
+      width: auto;
+    height: auto;
     left: 0.00px;
     top: 0.00px;
+    right: 0.00px;
+    bottom: 0.00px;
 
 }
 
-.washdropHome .group47 .group46 {
+.washdropHome .group308 .group46 {
 
       display: block;
       position: absolute;
@@ -641,14 +445,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 832.21px;
-    height: 273.50px;
-    left: 543.90px;
-    top: 19.75px;
+      width: 772.49px;
+    height: 241.35px;
+    left: 487.51px;
+    top: 23.75px;
 
 }
 
-.washdropHome .group47 .group46 .downloadNow {
+.washdropHome .group308 .group46 .downloadNow {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -683,12 +487,12 @@
       white-space: pre;
       width: 638.00px;
     height: 88.00px;
-    left: 97.10px;
+    left: 107.25px;
     top: 0.00px;
 
 }
 
-.washdropHome .group47 .group46 .screenShot20220404At33149Pm {
+.washdropHome .group308 .group46 .screenShot20220404At33149Pm {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -729,111 +533,11 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 832.21px;
-    height: 185.50px;
+      width: auto;
+    height: 114.35px;
     left: 0.00px;
-    top: 88.00px;
-
-}
-
-.washdropHome .group286 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -466.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 933.00px;
-    height: 133.62px;
-    left: 50%;
-    top: 6235.00px;
-
-}
-
-.washdropHome .group286 .blogPosts {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 80.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 933.00px;
-    height: 100.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.washdropHome .group286 .line1 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      stroke: rgba(38, 103, 255, 1);
-          stroke-width: 10.00px;
-          stroke-linecap: butt;
-      box-shadow: none;
-      width: 300.00px;
-    height: 10.00px;
-    left: 316.50px;
-    top: 128.62px;
+    right: 0.00px;
+    bottom: -0.00px;
 
 }
 
@@ -875,9 +579,9 @@
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
       width: auto;
-    height: 918.00px;
+    height: 901.00px;
     left: 0.00px;
-    top: 7655.00px;
+    top: 6586.00px;
     right: 0.00px;
 
 }
@@ -909,7 +613,7 @@
       width: 1476.00px;
     height: 416.00px;
     left: 50%;
-    top: 7447.00px;
+    top: 6378.00px;
 
 }
 
@@ -989,7 +693,7 @@
 
 }
 
-.washdropHome .group296 .group295 .subscribeToOurBlogfaeb8ed9 {
+.washdropHome .group296 .group295 .subscribeToOurBlogfe41d671 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1271,12 +975,43 @@
       overflow-y: unset;
       width: 700.00px;
     height: 63.00px;
-    top: 8462.53px;
+    top: 7393.53px;
     right: 579.68px;
 
 }
 
-.washdropHome .group117 {
+.washdropHome .group306 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -358.5px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 717.00px;
+    height: 1126.29px;
+    left: 50%;
+    top: 5166.00px;
+
+}
+
+.washdropHome .group306 .group286 {
 
       display: block;
       position: absolute;
@@ -1300,14 +1035,117 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 90.00px;
-    height: 14.29px;
-    left: 930.11px;
-    top: 7347.00px;
+      width: 529.00px;
+    height: 133.62px;
+    left: 94.00px;
+    top: 0.00px;
 
 }
 
-.washdropHome .group117 .rectangle31 {
+.washdropHome .group306 .group286 .blogPosts {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 80.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: ridleygrotesk_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 529.00px;
+    height: 100.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.washdropHome .group306 .group286 .line1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      stroke: rgba(38, 103, 255, 1);
+          stroke-width: 10.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 300.00px;
+    height: 10.00px;
+    left: 114.68px;
+    top: 128.62px;
+
+}
+
+.washdropHome .group306 .group117 {
+
+      display: block;
+      position: fixed;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: auto;
+    left: 313.00px;
+    top: 1112.00px;
+    right: 314.00px;
+    bottom: -0.00px;
+
+}
+
+.washdropHome .group306 .group117 .rectangle31 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1351,7 +1189,7 @@
 
 }
 
-.washdropHome .group117 .rectangle100 {
+.washdropHome .group306 .group117 .rectangle100 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1395,10 +1233,10 @@
 
 }
 
-.washdropHome .group305 {
+.washdropHome .group306 .group304 {
 
       display: block;
-      position: absolute;
+      position: fixed;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
@@ -1419,76 +1257,16 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 756.71px;
-    height: 968.19px;
-    left: 55.15px;
-    top: 6301.81px;
-
-}
-
-.washdropHome .group305 .group299 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 756.71px;
-    height: 968.19px;
+      width: auto;
+    height: auto;
     left: 0.00px;
-    top: 0.00px;
+    top: 181.81px;
+    right: 0.00px;
+    bottom: 91.29px;
 
 }
 
-.washdropHome .group305 .group299 .group298 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 756.71px;
-    height: 968.19px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.washdropHome .group305 .group299 .group298 .rectangle93 {
+.washdropHome .group306 .group304 .rectangle93 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1526,14 +1304,95 @@
       border-bottom-right-radius: 20.00px;
       -webkit-filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
     filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 717.00px;
+      width: auto;
     height: 839.00px;
-    left: 19.85px;
-    top: 129.19px;
+    left: 0.00px;
+    right: 0.00px;
+    bottom: 0.00px;
 
 }
 
-.washdropHome .group305 .group299 .group298 .starmanRafiki {
+.washdropHome .group306 .group304 .doCarsReallyHavepersonalities {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -337.5px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 60.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: ridleygrotesk_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 675.00px;
+    height: 150.00px;
+    left: 50%;
+    top: 359.19px;
+
+}
+
+.washdropHome .group306 .group304 .aPersonalityIsShapedOverTheCourseofTimeMoldedByItsEnvironmentAndsoDoesYourCar {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: -309.5px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(74, 74, 74, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: ridleygrotesk_regular, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 619.00px;
+    height: 111.00px;
+    left: 50%;
+    top: 540.19px;
+
+}
+
+.washdropHome .group306 .group304 .starmanRafiki {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1574,483 +1433,15 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 756.71px;
-    height: 585.69px;
-    left: 0.00px;
+      width: 593.26px;
+    height: 376.46px;
     top: 0.00px;
+    right: 48.00px;
 
 }
 
-.washdropHome .group305 .group299 .group298 .doCarsReallyHavepersonalities {
+.washdropHome .group306 .group304 .rectangle29 {
     position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 60.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 675.00px;
-    height: 150.00px;
-    left: 40.85px;
-    top: 474.19px;
-
-}
-
-.washdropHome .group305 .group299 .group298 .aPersonalityIsShapedOverTheCourseofTimeMoldedByItsEnvironmentAndsoDoesYourCar {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(74, 74, 74, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 30.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: ridleygrotesk_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 619.00px;
-    height: 111.00px;
-    left: 69.85px;
-    top: 655.19px;
-
-}
-
-.washdropHome .group305 .group299 .group297 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 337.00px;
-    height: 77.00px;
-    left: 210.85px;
-    top: 830.19px;
-
-}
-
-.washdropHome .group305 .group299 .group297 .rectangle29 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(38, 103, 255, 1);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 50.00px;
-      border-top-right-radius: 50.00px;
-      border-bottom-left-radius: 50.00px;
-      border-bottom-right-radius: 50.00px;
-      box-shadow: none;
-      width: 337.00px;
-    height: 77.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.washdropHome .group305 .group299 .group297 .readMore {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 30.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: ridleygrotesk_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 252.00px;
-    height: 37.00px;
-    left: 43.00px;
-    top: 20.00px;
-
-}
-
-.washdropHome .group308 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 756.71px;
-    height: 968.19px;
-    top: 6301.81px;
-    right: 351.44px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group29831735e8a {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group29831735e8a .rectangle934e8ab4d9 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(236, 242, 255, 1);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 20.00px;
-      border-top-right-radius: 20.00px;
-      border-bottom-left-radius: 20.00px;
-      border-bottom-right-radius: 20.00px;
-      -webkit-filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
-    filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 717.00px;
-    height: 839.00px;
-    left: 19.85px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group29831735e8a .starmanRafiki77afd485 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/starmanRafiki77afd485.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: auto;
-    height: 585.69px;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group29831735e8a .doCarsReallyHavepersonalities81017afb {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -337.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 60.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 675.00px;
-    height: 150.00px;
-    left: 50%;
-    top: 474.19px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group29831735e8a .aPersonalityIsShapedOverTheCourseofTimeMoldedByItsEnvironmentAndsoDoesYourCar88098a50 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -309.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(74, 74, 74, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 30.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: ridleygrotesk_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 619.00px;
-    height: 111.00px;
-    left: 50%;
-    top: 655.19px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group297b9f2ebd9 {
-
-      display: block;
-      position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
     -webkit-transform: rotate(0.00deg);
@@ -2068,35 +1459,6 @@
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 337.00px;
-    height: 77.00px;
-    left: 50%;
-    top: 830.19px;
-
-}
-
-.washdropHome .group308 .group2993f105e65 .group297b9f2ebd9 .rectangle294c870f79 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
       background-color: rgba(38, 103, 255, 1);
       border-bottom-color: rgba(112, 112, 112, 1);
       border-bottom-style: none;
@@ -2115,16 +1477,14 @@
       border-bottom-left-radius: 50.00px;
       border-bottom-right-radius: 50.00px;
       box-shadow: none;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: 0.00px;
-    bottom: 0.00px;
+      width: 337.00px;
+    height: 77.00px;
+    left: 50%;
+    top: 715.19px;
 
 }
 
-.washdropHome .group308 .group2993f105e65 .group297b9f2ebd9 .readMoree94c22af {
+.washdropHome .group306 .group304 .readMore {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2159,462 +1519,12 @@
       white-space: pre;
       width: 252.00px;
     height: 37.00px;
-    left: 43.00px;
-    top: 20.00px;
+    left: 234.00px;
+    top: 735.19px;
 
 }
 
-.washdropHome .group309 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 756.71px;
-    height: 968.19px;
-    top: 6301.81px;
-    right: -405.27px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group2987534fa12 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group2987534fa12 .rectangle93a0b3ed51 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(236, 242, 255, 1);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 20.00px;
-      border-top-right-radius: 20.00px;
-      border-bottom-left-radius: 20.00px;
-      border-bottom-right-radius: 20.00px;
-      -webkit-filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
-    filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 717.00px;
-    height: 839.00px;
-    left: 19.85px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group2987534fa12 .starmanRafiki4302821e {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/starmanRafiki4302821e.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: auto;
-    height: 585.69px;
-    left: 0.00px;
-    top: 0.00px;
-    right: -0.00px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group2987534fa12 .doCarsReallyHavepersonalities2b2252c7 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -337.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 60.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 675.00px;
-    height: 150.00px;
-    left: 50%;
-    top: 474.19px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group2987534fa12 .aPersonalityIsShapedOverTheCourseofTimeMoldedByItsEnvironmentAndsoDoesYourCare49dbee2 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -309.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(74, 74, 74, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 30.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: ridleygrotesk_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 619.00px;
-    height: 111.00px;
-    left: 50%;
-    top: 655.19px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group297483f07ee {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -168.5px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 337.00px;
-    height: 77.00px;
-    left: 50%;
-    top: 830.19px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group297483f07ee .rectangle293e1ea4df {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(38, 103, 255, 1);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 50.00px;
-      border-top-right-radius: 50.00px;
-      border-bottom-left-radius: 50.00px;
-      border-bottom-right-radius: 50.00px;
-      box-shadow: none;
-      width: auto;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    right: 0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .group309 .group299bdf19044 .group297483f07ee .readMorec8f04bee {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 30.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: ridleygrotesk_regular, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 252.00px;
-    height: 37.00px;
-    left: 43.00px;
-    top: 20.00px;
-
-}
-
-.washdropHome .group306 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 1658.00px;
-    height: 466.00px;
-    top: 7949.00px;
-    right: 33.00px;
-
-}
-
-.washdropHome .group306 .group294 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 1050.00px;
-    height: 466.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.washdropHome .group306 .group294 .group290 {
+.washdropHome .group290 {
 
       display: block;
       position: absolute;
@@ -2640,12 +1550,12 @@
       background-color: transparent;
       width: 379.00px;
     height: 284.00px;
-    left: 0.00px;
-    top: 0.00px;
+    left: 109.00px;
+    top: 6885.00px;
 
 }
 
-.washdropHome .group306 .group294 .group290 .faq {
+.washdropHome .group290 .faq {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2685,7 +1595,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group290 .codeOfConduct {
+.washdropHome .group290 .codeOfConduct {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2725,7 +1635,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group290 .blog {
+.washdropHome .group290 .blog {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2765,7 +1675,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group290 .forCustomers {
+.washdropHome .group290 .forCustomers {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2805,7 +1715,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group291 {
+.washdropHome .group291 {
 
       display: block;
       position: absolute;
@@ -2831,12 +1741,12 @@
       background-color: transparent;
       width: 348.00px;
     height: 122.00px;
-    left: 0.00px;
-    top: 344.00px;
+    left: 109.00px;
+    top: 7229.00px;
 
 }
 
-.washdropHome .group306 .group294 .group291 .joinUs {
+.washdropHome .group291 .joinUs {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2876,7 +1786,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group291 .forWorkshops {
+.washdropHome .group291 .forWorkshops {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2909,14 +1819,15 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 348.00px;
+      width: auto;
     height: 50.00px;
     left: 0.00px;
     top: 0.00px;
+    right: 0.00px;
 
 }
 
-.washdropHome .group306 .group294 .group292 {
+.washdropHome .group292 {
 
       display: block;
       position: absolute;
@@ -2932,7 +1843,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: 0.00px;
+      margin-left: -174px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -2942,12 +1853,12 @@
       background-color: transparent;
       width: 348.00px;
     height: 284.00px;
-    left: 702.00px;
-    top: 0.00px;
+    left: 50%;
+    top: 6885.00px;
 
 }
 
-.washdropHome .group306 .group294 .group292 .aboutUs {
+.washdropHome .group292 .aboutUs {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -2987,7 +1898,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group292 .careers {
+.washdropHome .group292 .careers {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3027,7 +1938,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group292 .philosophy {
+.washdropHome .group292 .philosophy {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3067,7 +1978,7 @@
 
 }
 
-.washdropHome .group306 .group294 .group292 .company {
+.washdropHome .group292 .company {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3100,14 +2011,15 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 348.00px;
+      width: auto;
     height: 50.00px;
     left: 0.00px;
     top: 0.00px;
+    right: 0.00px;
 
 }
 
-.washdropHome .group306 .group302 {
+.washdropHome .group302 {
 
       display: block;
       position: absolute;
@@ -3131,14 +2043,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 730.00px;
+      width: 642.00px;
     height: 335.00px;
-    left: 928.00px;
-    top: 5.00px;
+    top: 6885.00px;
+    right: 26.00px;
 
 }
 
-.washdropHome .group306 .group302 .group293 {
+.washdropHome .group302 .group293 {
 
       display: block;
       position: absolute;
@@ -3162,14 +2074,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 719.00px;
+      width: 631.00px;
     height: 335.00px;
     left: 11.00px;
     top: 0.00px;
 
 }
 
-.washdropHome .group306 .group302 .group293 .x201271152411 {
+.washdropHome .group302 .group293 .x201271152411 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3209,7 +2121,7 @@
 
 }
 
-.washdropHome .group306 .group302 .group293 .hello {
+.washdropHome .group302 .group293 .hello {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3249,7 +2161,7 @@
 
 }
 
-.washdropHome .group306 .group302 .group293 .cairoAlShorouqScienceAndInnovationPark {
+.washdropHome .group302 .group293 .cairoAlShorouqScienceAndInnovationPark {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3282,14 +2194,14 @@
       overflow-x: unset;
       overflow-y: unset;
       white-space: pre;
-      width: 682.00px;
+      width: 594.00px;
     height: 98.00px;
     left: 37.00px;
     top: 237.00px;
 
 }
 
-.washdropHome .group306 .group302 .group293 .contactUs {
+.washdropHome .group302 .group293 .contactUs {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3329,7 +2241,7 @@
 
 }
 
-.washdropHome .group306 .group302 .image227 {
+.washdropHome .group302 .image227 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3377,7 +2289,7 @@
 
 }
 
-.washdropHome .group306 .group302 .image228 {
+.washdropHome .group302 .image228 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3425,7 +2337,7 @@
 
 }
 
-.washdropHome .group306 .group302 .image229 {
+.washdropHome .group302 .image229 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3473,16 +2385,16 @@
 
 }
 
-.washdropHome .blobbbbdac1515a {
+.washdropHome .blobbbb {
     position: absolute;
       box-sizing: content-box;
-      -ms-transform: rotate(200.00deg);
-    -webkit-transform: rotate(200.00deg);
-    transform: rotate(200.00deg);
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/blobbbbdac1515a.png");
+      background-image: url("assets/blobbbb.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3514,54 +2426,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 1996.61px;
-    height: 2123.56px;
-    left: -1587.55px;
-    top: 1160.03px;
+      width: 364.95px;
+    height: 1443.56px;
+    top: 3503.70px;
+    right: 0.00px;
 
 }
 
-.washdropHome .yourCaryourWashyourTimeyourPlace {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      line-height: 170.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 130.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: ridleygrotesk_bold, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      width: 1146.00px;
-    height: 732.00px;
-    left: 50.00px;
-    top: 1909.39px;
-
-}
-
-.washdropHome .group307 {
+.washdropHome .group310 {
 
       display: block;
       position: absolute;
@@ -3577,7 +2449,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: 0.00px;
+      margin-left: -806.645751953125px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -3585,198 +2457,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 980.00px;
-    height: 1002.37px;
-    top: 1912.39px;
-    right: 42.50px;
+      width: 1613.29px;
+    height: 1503.55px;
+    left: 50%;
+    top: 3530.89px;
 
 }
 
-.washdropHome .group307 .exteriorMockup {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/exteriorMockup.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 500.00px;
-    height: 920.33px;
-    top: 0.00px;
-    right: 0.00px;
-
-}
-
-.washdropHome .group307 .onboarding1Mockup {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/onboarding1Mockup.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 500.00px;
-    height: auto;
-    left: 0.00px;
-    top: 0.00px;
-    bottom: 0.00px;
-
-}
-
-.washdropHome .dropLetsYouOrderYourCarwashWheneverWherever {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: left;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: unset;
-      font-size: 55.00px;
-      font-weight: 500;
-    font-style: normal;
-      font-family: ridleygrotesk_medium, Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      width: 836.00px;
-    height: 164.00px;
-    left: 50.00px;
-    top: 2626.39px;
-
-}
-
-.washdropHome .blobbbbbc879b6c {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(-20.00deg);
-    -webkit-transform: rotate(-20.00deg);
-    transform: rotate(-20.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/blobbbbbc879b6c.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 1996.61px;
-    height: 2123.56px;
-    top: 3957.93px;
-    right: -1441.79px;
-
-}
-
-.washdropHome .workshops {
+.washdropHome .group310 .workshops {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3817,14 +2505,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 600.00px;
-    height: 1202.84px;
-    left: 97.13px;
-    top: 4897.32px;
+      width: 500.00px;
+    height: 1002.37px;
+    top: 0.00px;
+    right: 0.00px;
 
 }
 
-.washdropHome .serviceMockup {
+.washdropHome .group310 .serviceMockup {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3865,14 +2553,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 600.00px;
-    height: 1202.84px;
-    top: 4598.31px;
-    right: 633.87px;
+      width: 500.00px;
+    height: 1002.37px;
+    left: 556.65px;
+    top: 224.18px;
 
 }
 
-.washdropHome .calendarMockup {
+.washdropHome .group310 .calendarMockup {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3913,10 +2601,10 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 600.00px;
-    height: 1202.84px;
-    top: 4344.52px;
-    right: 46.00px;
+      width: 500.00px;
+    height: 1002.37px;
+    left: 0.00px;
+    bottom: -0.00px;
 
 }
 
@@ -3936,7 +2624,7 @@
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
-      margin-left: -752.72216796875px;
+      margin-left: 0.00px;
       padding-top: 0.00px;
       padding-right: 0.00px;
       padding-bottom: 0.00px;
@@ -3944,14 +2632,15 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 1505.44px;
-    height: 732.76px;
-    left: 50%;
-    top: 3680.52px;
+      width: auto;
+    height: 334.53px;
+    left: 0.00px;
+    top: 3107.52px;
+    right: 0.00px;
 
 }
 
-.washdropHome .group267 .autoServicesinYourPocket {
+.washdropHome .group267 .autoServicesInYourPocket {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3976,7 +2665,7 @@
       letter-spacing: 0.00px;
       color: rgba(0, 0, 0, 1);
       -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 130.00px;
+      font-size: 100.00px;
       font-weight: 700;
     font-style: normal;
       font-family: ridleygrotesk_bold, Arial;
@@ -3984,10 +2673,11 @@
       box-shadow: none;
       overflow-x: unset;
       overflow-y: unset;
-      width: 1149.00px;
-    height: 438.00px;
-    left: 160.60px;
-    bottom: 3.00px;
+      width: auto;
+    height: 133.00px;
+    left: 0.00px;
+    top: -22.00px;
+    right: 0.00px;
 
 }
 
@@ -4015,11 +2705,10 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: auto;
-    height: 201.53px;
-    left: 0.00px;
-    top: 0.00px;
-    right: 0.00px;
+      width: 1389.93px;
+    height: 207.97px;
+    right: 192.80px;
+    bottom: -0.00px;
 
 }
 
@@ -4065,9 +2754,8 @@
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
       width: 164.50px;
-    height: auto;
+    height: 201.53px;
     left: 0.00px;
-    top: 0.00px;
     bottom: -0.00px;
 
 }
@@ -4115,7 +2803,7 @@
       box-shadow: none;
       width: 200.00px;
     height: 183.66px;
-    left: 246.87px;
+    right: 1016.05px;
     bottom: -0.00px;
 
 }
@@ -4163,7 +2851,7 @@
       box-shadow: none;
       width: 200.00px;
     height: 162.85px;
-    left: 491.25px;
+    right: 764.40px;
     bottom: -0.00px;
 
 }
@@ -4211,8 +2899,8 @@
       box-shadow: none;
       width: 160.00px;
     height: 160.00px;
-    top: 17.87px;
-    right: 560.75px;
+    right: 527.50px;
+    bottom: 13.66px;
 
 }
 
@@ -4259,8 +2947,8 @@
       box-shadow: none;
       width: 187.30px;
     height: 194.97px;
-    right: 285.77px;
-    bottom: -0.00px;
+    top: 0.00px;
+    right: 268.47px;
 
 }
 
@@ -4307,8 +2995,8 @@
       box-shadow: none;
       width: 214.13px;
     height: 123.11px;
-    top: 54.76px;
     right: 0.00px;
+    bottom: 23.65px;
 
 }
 
@@ -4338,59 +3026,11 @@
       width: 911.00px;
     height: 5.00px;
     left: 50%;
-    top: 6138.16px;
+    top: 5069.16px;
 
 }
 
-.washdropHome .image225 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(-0.00deg);
-    -webkit-transform: rotate(-0.00deg);
-    transform: rotate(-0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      background-image: url("assets/image225.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: -40px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 80.00px;
-    height: 80.00px;
-    left: 50%;
-    top: 1676.17px;
-
-}
-
-.washdropHome .group268 {
+.washdropHome .group309 {
 
       display: block;
       position: absolute;
@@ -4414,14 +3054,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 898.00px;
-    height: 1181.13px;
-    top: 233.00px;
-    right: 62.00px;
+      width: 1170.04px;
+    height: 569.25px;
+    left: 69.00px;
+    top: 249.38px;
 
 }
 
-.washdropHome .group268 .iphone14Mockup {
+.washdropHome .group309 .carExperienceRedefined {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -4430,10 +3070,6 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/iphone14Mockup.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -4445,31 +3081,58 @@
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       background-color: rgba(255, 255, 255, 0);
-      border-bottom-color: rgba(112, 112, 112, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(112, 112, 112, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(112, 112, 112, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(112, 112, 112, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 130.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: ridleygrotesk_bold, Arial;
+      text-decoration: none;
       box-shadow: none;
-      width: 450.00px;
-    height: 902.13px;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1150.00px;
+    height: 328.00px;
     top: 0.00px;
     right: 0.00px;
 
 }
 
-.washdropHome .group268 .mockup2 {
+.washdropHome .group309 .group36 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 858.00px;
+    height: 191.25px;
+    left: 0.00px;
+    bottom: -0.00px;
+
+}
+
+.washdropHome .group309 .group36 .screenShot20220404At33149Pma88cd32c {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -4478,7 +3141,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mockup2.png");
+      background-image: url("assets/screenShot20220404At33149Pma88cd32c.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4510,9 +3173,296 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 450.00px;
-    height: 902.13px;
+      width: 858.00px;
+    height: 191.25px;
     left: 0.00px;
+    top: 0.00px;
+
+}
+
+.washdropHome .homeDevices {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/homeDevices.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 700.00px;
+    height: 867.63px;
+    top: 231.29px;
+    right: 37.50px;
+
+}
+
+.washdropHome .blobbbb7ac11682 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/blobbbb7ac11682.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 364.95px;
+    height: 1443.56px;
+    left: 0.00px;
+    top: 1101.92px;
+
+}
+
+.washdropHome .group312 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1602.41px;
+    height: 861.31px;
+    left: 67.00px;
+    top: 1368.51px;
+
+}
+
+.washdropHome .group312 .group311ccb328f4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 753.08px;
+    height: 762.00px;
+    left: 0.00px;
+    top: 87.88px;
+
+}
+
+.washdropHome .group312 .group311ccb328f4 .yourCaryourWashyourTimeyourPlace {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 150.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 110.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: ridleygrotesk_bold, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 666.08px;
+    height: 598.00px;
+    left: 0.00px;
+    top: -5.50px;
+
+}
+
+.washdropHome .group312 .group311ccb328f4 .dropLetsYouOrderYourCarwashWheneverWherever {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: unset;
+      font-size: 50.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: ridleygrotesk_medium, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 164.00px;
+    left: 0.00px;
+    right: -0.00px;
+    bottom: 0.00px;
+
+}
+
+.washdropHome .group312 .group311 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/group311.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 849.33px;
+    height: auto;
+    top: 0.00px;
+    right: 0.00px;
     bottom: 0.00px;
 
 }
