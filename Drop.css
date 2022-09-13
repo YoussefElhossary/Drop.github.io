@@ -1,16 +1,16 @@
 
 @font-face {
-          font-family: ridleygrotesk_regular;
+          font-family: "ridleygrotesk_regular";
           src: url("RidleyGroteskRegular.otf");
         }
         
         @font-face {
-          font-family: ridleygrotesk_bold;
+          font-family: "ridleygrotesk_bold";
           src: url("RidleyGroteskBold.otf");
         }
         
         @font-face {
-          font-family: ridleygrotesk_medium;
+          font-family: "ridleygrotesk_medium";
           src: url("RidleyGroteskMedium.otf");
         }
 
