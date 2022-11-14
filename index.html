@@ -21,6 +21,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+<!-- Schema-Add Logo -->
+
 <script type="application/ld+json">
 {"@context" : "http://schema.org",
  "@type" : "Organization",
@@ -32,6 +34,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 </script>
 
+<!-- Schema-Add Breadcrumbs -->
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -39,26 +43,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "itemListElement": [{
     "@type": "ListItem",
     "position": 1,
+    "name": "Drop App: Home",
+    "item": "https://drop-eg.com/index.html"
+  },{
+    "@type": "ListItem",
+    "position": 2,
     "name": "How it works?",
     "item": "https://drop-eg.com/TheHow.html"
   },{
     "@type": "ListItem",
-    "position": 2,
+    "position": 3,
     "name": "Our Blog",
     "item": "https://drop-eg.com/Editorial.html"
     },{
     "@type": "ListItem",
-    "position": 3,
+    "position": 4,
     "name": "About Us",
     "item": "https://drop-eg.com/AboutUs.html"
   },{
     "@type": "ListItem",
-    "position": 4,
+    "position": 5,
     "name": "Investor Relations",
     "item": "https://drop-eg.com/InvestorRelations.html"
   }]
 }
 </script>
+
+<!-- Schema-Add Local Business -->
 
 <script type="application/ld+json">
 {
@@ -76,6 +87,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 }
 </script>
+
+<!-- Schema-Add Search Box -->
+
+
+<script type=”application/ld+json”>
+
+{
+
+  “@context”: “https://drop-eg.com”,
+
+  “@type”: “WebSite”,
+
+  “url”: “https://drop-eg.com”,
+
+  “potentialAction”: {
+
+    “@type”: “SearchAction”,
+
+    “target”: “https://drop-eg.com/search?q={search_term_string}”,
+
+    “query-input”: “required name=search_term_string”
+
+  }
+
+}
+
+</script>
+
+<!-- End Schema Markup-->
 
 
 <meta charset="utf-8"/>
